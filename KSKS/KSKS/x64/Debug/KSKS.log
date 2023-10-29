@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(232,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(235,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(238,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(241,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(244,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(247,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(254,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(254,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(263,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(266,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(269,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(272,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(275,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(278,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(287,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(287,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(295,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(295,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(307,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(771,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\KSKS\MyForm.h(917,65): warning C4101: e: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KSKS.vcxproj -> C:\Users\dpole\Desktop\КСКС ЛР №5 КН-21-2\KSKS\x64\Debug\KSKS.exe
